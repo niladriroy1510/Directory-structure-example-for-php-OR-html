@@ -1,0 +1,1 @@
+Directory structure example for php OR html
